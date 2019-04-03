@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ
 #### Math of Intelligence
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 #### Intro to Tensorflow
+https://classroom.udacity.com/courses/ud187/lessons/ff58baf7-22c2-4052-9f9f-a8b2415ba7df/concepts/775e9718-3a1e-40e1-ad37-ac8aef7840c5
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
 ## Week 2 
